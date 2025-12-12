@@ -1,0 +1,4 @@
+device_id,device_name,status
+1,Firewall,active
+2,Server-01,active
+3,Laptop-23,inactive

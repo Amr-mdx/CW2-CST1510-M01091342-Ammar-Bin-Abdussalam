@@ -1,0 +1,4 @@
+incident_id,user_id,device_id,incident_type,severity,status
+1,1,1,Malware,high,open
+2,2,2,Phishing,medium,investigating
+3,3,3,Unauthorized Access,low,closed
